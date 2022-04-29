@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center"><b>🛠 Skills 🛠</b></h3>
+<h3 align="center"><b>Skills</b></h3>
 </br>
 <p align="center">
 <a href="https://developer.mozilla.org/ko/docs/Web/HTML" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" alt="HTML5"/></a>
