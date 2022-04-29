@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="center"><b>Skills</b></h3>
-</br>
 <p align="center">
 <a href="https://developer.mozilla.org/ko/docs/Web/HTML" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" alt="HTML5"/></a>
 <a href="https://developer.mozilla.org/ko/docs/Web/CSS/Reference" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" alt="CSS3"/></a>
 <a href="https://sass-lang.com/documentation" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white" alt="Sass"/></a>
 <a href="https://styled-components.com/docs" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white" alt="styled-components"/></a>
 </p>
+
 <p align="center">
 <a href="https://developer.mozilla.org/ko/docs/Web/JavaScript" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" alt="JavaScript"/></a>
 <a href="https://www.typescriptlang.org/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=Typescript&logoColor=white" alt="TypeScript"></a>
