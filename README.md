@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h2 align="left"><samp><b>👋 Hi there</b></samp></h2>
 <p align="left">I'm Inhwa Lee, Front-End Developer. welcome to my Github!</p>
 <br/>
-<h2 align="left"><samp><b>🛠️ My Skills</b></samp></h2>
+<h2 align="left"><samp><b>🛠️ My skills</b></samp></h2>
 <p align="left">
 <a href="https://developer.mozilla.org/ko/docs/Web/HTML" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" alt="HTML5"/></a>
 <a href="https://developer.mozilla.org/ko/docs/Web/CSS/Reference" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" alt="CSS3"/></a>
