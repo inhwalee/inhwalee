@@ -25,12 +25,13 @@ Here are some ideas to get you started:
 <a href="https://www.typescriptlang.org/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=Typescript&logoColor=white" alt="TypeScript"></a>
 <a href="https://reactjs.org/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black" alt="React"></a>
 <a href="https://nextjs.org/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" alt="Next.js"></a>
-<a href="https://babeljs.io/docs/en/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=Babel&logoColor=black" alt="Babel"></a>
-<a href="https://webpack.kr/concepts/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=black" alt="Webpack"></a>
-</p>
+<!--<a href="https://babeljs.io/docs/en/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=Babel&logoColor=black" alt="Babel"></a>-->
+<!--<a href="https://webpack.kr/concepts/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=black" alt="Webpack"></a>
+</p>-->
 
 <p align="left">
-<a href="https://help.figma.com/hc/en-us" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" alt="Figma"></a>
+<!--
+<a href="https://help.figma.com/hc/en-us" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" alt="Figma"></a>-->
 <a href="https://www.adobe.com/kr/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white" alt="Adobe Photoshop"></a>
 <a href="https://www.adobe.com/kr/" rel="noreferrer" target="_blank"><img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Photoshop&logoColor=white" alt="Adobe Illustrator"></a>
 <!-- <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> &nbsp -->
